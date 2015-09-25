@@ -1,0 +1,12 @@
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLogin.resources
+c:\users\hachi\documents\visual studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmUsuarioNuevo.resources
+C:\Users\Hachi\Documents\Visual Studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmAgregarLibro.resources
+C:\Users\Hachi\Documents\Visual Studio 2013\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmPrincipal.resources
